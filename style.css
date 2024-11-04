@@ -119,3 +119,23 @@ form:has(:invalid) button {
   text-decoration: none;
   margin: 40px 500px 50px 10px;
 }
+.room4-title {
+  color: blueviolet;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.room4_secretNumber {
+  color: white;
+  font-size: 50px;
+}
+
+.room4_secretNumber:hover {
+  color:blueviolet;
+  font-size: 300px;
+}
+
+.room4_secretNumber-link {
+  text-decoration: none;
+  margin: 40px 50px 500px 10px;
+}
