@@ -93,11 +93,12 @@ form:has(:invalid) button {
   background-color: #ff0000;
 }
 
-p {
-  font-size: 5rem;
-  color: transparent;
+.room1 a {
+  text-decoration: none;
+  font-size: 10rem;
+  color: white;
 }
 
-p:hover {
-  color: var(--primary);
+.room1:hover {
+  background-color: #ff0000;
 }
