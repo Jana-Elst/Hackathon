@@ -119,20 +119,3 @@ form:has(:invalid) button {
   text-decoration: none;
   margin: 40px 500px 50px 10px;
 }
-.room3-title{
-  color: hotpink;
-  font-weight: 700;
-  font-size: 45px;
-}
-.room3_secretNumber{
-  color: white;
-  font-size: 50px;
-}
-.room3_secretNumber:hover {
-  color: hotpink;
-  font-size: 300px;
-}
-.room3_secretNumber-link{
-  text-decoration: none;
-  margin: 40px 500px 50px 10px;
-}
