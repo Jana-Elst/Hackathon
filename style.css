@@ -92,3 +92,18 @@ form:has(:invalid) button {
   opacity: 0.1;
   background-color: #ff0000;
 }
+
+.room2 h2 {
+font-size: 10rem;
+color: white;
+transition: color 0.2s ease-in-out;
+}
+
+.room2 h2:hover {
+color: red;
+}
+
+.room2 h1 {
+margin-bottom: -10rem;
+margin-top: -10rem;
+}
