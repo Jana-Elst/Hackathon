@@ -139,3 +139,17 @@ form:has(:invalid) button {
   text-decoration: none;
   margin: 40px 50px 500px 10px;
 }
+.room2 h2 {
+font-size: 10rem;
+color: white;
+transition: color 0.2s ease-in-out;
+}
+
+.room2 h2:hover {
+color: red;
+}
+
+.room2 h1 {
+margin-bottom: -10rem;
+margin-top: -10rem;
+}
