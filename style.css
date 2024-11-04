@@ -92,3 +92,12 @@ form:has(:invalid) button {
   opacity: 0.1;
   background-color: #ff0000;
 }
+
+p {
+  font-size: 5rem;
+  color: transparent;
+}
+
+p:hover {
+  color: var(--primary);
+}
